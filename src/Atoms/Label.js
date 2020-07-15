@@ -7,7 +7,6 @@ function Label(props) {
        } = props;
     return (
         <div>
-            test-id='label'
             <h3>{text}</h3>
         </div>
     )
